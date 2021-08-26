@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(208, 207, 236);
+    padding: 3%;
+  }
+
+#meunome {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+  }
+
+p ul ol{
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+ul li:nth-child(odd){
+    background-color: lightblue;
+}
+#nacionalidade {
+    font-style: italic; font-weight: bold;
+  }
+
+#lista1 {
+    font-size: 15px;
+  }
+#lista2 {
+    font-size: 17px;
+  }
+#lista3 {
+    font-size: 13px;
+  }
+#lista4 {
+    font-size: 18px;
+  }
+#lista5 {
+    font-size: 14px;
+  }
+#lista6 {
+    font-size: 16px;
+  }
+
+#minhafoto {
+    float: left;
+    height: 280px;
+    padding: 10px;
+    background-color: lightcoral;
+}
+.descricaofoto {
+    position: absolute;
+    padding: 70px;
+    left: 250px;
+    top: 330px;
+}
+#imagecontainer {
+    height: 300px;
+}
+
